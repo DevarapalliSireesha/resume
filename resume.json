@@ -1,0 +1,39 @@
+{
+  "profile":{
+    "name":"siri",
+    "image":"imag/profile.jpg",
+    "Branch":"CSE",
+    "number":"8972161652",
+    "gmail":"siri@gmail.com",
+    "careerobject":"To enhance my educational and professional skills in a stable and dynamic workplace."
+},
+"Education":[
+  {
+    "degree":"B.Tech",
+    "College":"QIS",
+    "Branch":"CSE",
+    "Marks":"78%",
+    "endDate":"03/04/2020"
+  },
+  {
+    "degree":"Intermediate",
+    "College":"UMRJC",
+    "Branch":"MPC",
+    "Marks":"75",
+    "endDate":"03/04/2016"
+  },
+  {
+      "degree":"SSC",
+      "College":"Sathavahana",
+      "Branch":"EM",
+      "Marks":"75%",
+      "endDate":"14/03/2014"
+    }
+  ],
+  "skills":{
+    "os":"Windows 7,Windows8.1, Windows8.1,XP",
+    "ps":"HTML, JavaScript,PHP,c,JAVA,Android"
+
+  }
+
+}

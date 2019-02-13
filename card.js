@@ -40,6 +40,11 @@ function pro(Pro){
   var h5=document.createElement("h5");
   h5.textContent=Pro[i].gmail;
   card.appendChild(h5);
+  var a=document.createElement("a");
+  a.textContent="View Resume";
+  a.href="resume.html";
+  card.appendChild(a);
+
 }
 
 }
